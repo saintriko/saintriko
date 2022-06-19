@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 ### I'm Maksim
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saintriko&skills=PHP,CSS,SCSS,HTML,JavaScript,TypeScript,JSON,C,C%23,Haskell,Java,SCSS&width=820&show-other-skills=true"
+      alt="CodersRank skills chart"
+    />
+
+
+
+
+
 <!--
 **saintriko/saintriko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
