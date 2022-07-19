@@ -3,7 +3,7 @@
 ### I'm Maksim
 
 <a href="https://profile.codersrank.io/user/saintriko/" target="_blank">
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saintriko&skills=PHP,CSS,SCSS,HTML,JavaScript,TypeScript,JSON,C,C%23,Haskell,Java,SCSS&width=820&show-other-skills=true"
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saintriko&skills=PHP,CSS,SCSS,HTML,JavaScript,TypeScript,JSON,C,C%2B%2B,C%23,Haskell,Java,SCSS&width=820&show-other-skills=true"
       alt="CodersRank skills chart"
     />
     </a>
